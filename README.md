@@ -3,5 +3,7 @@ La détection et la localisation d'objets est l'un des problèmes importants de 
 
 j'ai opter pour la detection de véhicule au classifieure SVM (Support Vector Machine ou Machine à vecteurs de support) Les SVMs sont une famille d’algorithmes d‘apprentissage automatique qui permettent de résoudre des problèmes tant de classification que de régression ou de détection d’anomalie. Ils sont connus pour leurs solides garanties théoriques, leur grande flexibilité ainsi que leur simplicité d’utilisation même sans grande connaissance de data mining.
 
+l'algorithme manque un peut de précission 
+
 
 
